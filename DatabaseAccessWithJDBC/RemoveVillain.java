@@ -65,5 +65,6 @@ public class RemoveVillain {
 
         System.out.printf("%s was deleted\n%d minions released", villainName, minionsCount);
 
+        connector.getConnection().close();
     }
 }

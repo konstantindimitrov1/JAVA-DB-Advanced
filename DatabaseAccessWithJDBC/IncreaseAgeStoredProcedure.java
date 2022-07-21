@@ -28,5 +28,8 @@ public class IncreaseAgeStoredProcedure {
         resultSet.next();
 
         System.out.printf("%s %d", resultSet.getString("name"), resultSet.getInt("age"));
+
+        connector.getConnection().close();
+
     }
 }

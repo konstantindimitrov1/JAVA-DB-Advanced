@@ -47,5 +47,8 @@ public class ChangeTownNameCasing {
         }
 
         System.out.printf("%d town names were affected.\n%s", towns.size(), towns);
+
+        connector.getConnection().close();
+
     }
 }

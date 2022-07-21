@@ -35,5 +35,7 @@ public class PrintAllMinionNames {
 
         System.out.println(sb);
 
+        connector.getConnection().close();
+
     }
 }

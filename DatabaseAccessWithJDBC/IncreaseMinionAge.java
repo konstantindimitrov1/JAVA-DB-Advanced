@@ -32,5 +32,8 @@ public class IncreaseMinionAge {
         while (resultSet.next()) {
             System.out.printf("%s %d\n", resultSet.getString("name"), resultSet.getInt("age"));
         }
+
+        connector.getConnection().close();
+
     }
 }
