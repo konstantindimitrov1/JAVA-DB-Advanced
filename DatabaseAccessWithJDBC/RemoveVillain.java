@@ -1,3 +1,5 @@
+package DatabaseAccessWithJDBC;
+
 import java.sql.*;
 import java.util.Scanner;
 
