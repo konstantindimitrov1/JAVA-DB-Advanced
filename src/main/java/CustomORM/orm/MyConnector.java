@@ -11,7 +11,7 @@ public class MyConnector {
     public MyConnector() throws SQLException {
         Properties properties = new Properties();
         properties.setProperty("user", "root");
-        properties.setProperty("password", "");
+        properties.setProperty("password", " ");
 
         connection = DriverManager.getConnection("jdbc:mysql://localhost:3306/custom_orm", properties);
     }
