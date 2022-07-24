@@ -7,6 +7,9 @@ import java.sql.Connection;
 import java.util.Arrays;
 
 public class EntityManager<E> implements DbContext<E> {
+    // methods don't have implementation because this project is just a test
+
+
     private Connection connection;
 
     public EntityManager(Connection connection) {
