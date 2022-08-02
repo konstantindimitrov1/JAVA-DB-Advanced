@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5ad57924-dbd1-44b0-afc5-ae23bcb8d411" name="Changes" comment="added some comments">
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/CustomORM/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/CustomORM/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/CustomORM/annotations/Column.java" beforeDir="false" afterPath="$PROJECT_DIR$/CustomORM/annotations/Column.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/CustomORM/annotations/Entity.java" beforeDir="false" afterPath="$PROJECT_DIR$/CustomORM/annotations/Entity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/CustomORM/annotations/Id.java" beforeDir="false" afterPath="$PROJECT_DIR$/CustomORM/annotations/Id.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/CustomORM/entities/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/CustomORM/entities/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/CustomORM/orm/DbContext.java" beforeDir="false" afterPath="$PROJECT_DIR$/CustomORM/orm/DbContext.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/CustomORM/orm/EntityManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/CustomORM/orm/EntityManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/CustomORM/orm/MyConnector.java" beforeDir="false" afterPath="$PROJECT_DIR$/CustomORM/orm/MyConnector.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/DatabaseAccessWithJDBC/AddMinion.java" beforeDir="false" afterPath="$PROJECT_DIR$/DatabaseAccessWithJDBC/AddMinion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/DatabaseAccessWithJDBC/ChangeTownNameCasing.java" beforeDir="false" afterPath="$PROJECT_DIR$/DatabaseAccessWithJDBC/ChangeTownNameCasing.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/DatabaseAccessWithJDBC/DBConnector.java" beforeDir="false" afterPath="$PROJECT_DIR$/DatabaseAccessWithJDBC/DBConnector.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/DatabaseAccessWithJDBC/GetMinionNames.java" beforeDir="false" afterPath="$PROJECT_DIR$/DatabaseAccessWithJDBC/GetMinionNames.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/DatabaseAccessWithJDBC/GetVillainsNames.java" beforeDir="false" afterPath="$PROJECT_DIR$/DatabaseAccessWithJDBC/GetVillainsNames.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/DatabaseAccessWithJDBC/IncreaseAgeStoredProcedure.java" beforeDir="false" afterPath="$PROJECT_DIR$/DatabaseAccessWithJDBC/IncreaseAgeStoredProcedure.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/DatabaseAccessWithJDBC/IncreaseMinionAge.java" beforeDir="false" afterPath="$PROJECT_DIR$/DatabaseAccessWithJDBC/IncreaseMinionAge.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/DatabaseAccessWithJDBC/PrintAllMinionNames.java" beforeDir="false" afterPath="$PROJECT_DIR$/DatabaseAccessWithJDBC/PrintAllMinionNames.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/DatabaseAccessWithJDBC/RemoveVillain.java" beforeDir="false" afterPath="$PROJECT_DIR$/DatabaseAccessWithJDBC/RemoveVillain.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="AnnotationType" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="JpbToolWindowState">
+    <option name="myId2FirstActivated">
+      <map>
+        <entry key="com.haulmont.jpb.jpaInspector" value="true" />
+        <entry key="com.haulmont.jpb.jpaPalette" value="true" />
+        <entry key="com.haulmont.jpb.jpaStructure" value="true" />
+      </map>
+    </option>
+    <option name="myId2Visible">
+      <map>
+        <entry key="com.haulmont.jpb.jpaInspector" value="false" />
+        <entry key="com.haulmont.jpb.jpaPalette" value="false" />
+        <entry key="com.haulmont.jpb.jpaStructure" value="false" />
+      </map>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2CG0S22CEb6q4IMCYaXJzGH5AvB" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/DatabaseAccessWithJDBC" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../mysql-connector-java-8.0.27/mysql-connector-java-8.0.27/mysql-connector-java-8.0.27.jar" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Konstantin\Downloads\JAVA-DB-Advanced" />
+      <recent name="C:\Users\Konstantin\Downloads\JAVA-DB-Advanced\src\main\java" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="DatabaseAccessWithJDBC" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main (3)">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HibernateJPA.Main" />
+      <module name="JAVA-DB-Advanced" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="HibernateJPA.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HibernateJPAExercises.src.main.java.Main" />
+      <module name="JAVA-DB-Advanced" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="HibernateJPAExercises.src.main.java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="JAVA-DB-Advanced" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CustomORM.Main" />
+      <module name="JAVA-DB-Advanced" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="CustomORM.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main1" />
+      <module name="JAVA-DB-Advanced" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main (3)" />
+        <item itemvalue="Application.Main1" />
+        <item itemvalue="Application.Main (2)" />
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5ad57924-dbd1-44b0-afc5-ae23bcb8d411" name="Changes" comment="" />
+      <created>1658413609634</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1658413609634</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Added new exercises.">
+      <created>1658413985486</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1658413985486</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Moved files to correct directory.">
+      <created>1658414454533</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1658414454533</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Added connection.close() method">
+      <created>1658419262047</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1658419262047</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Added Maven">
+      <created>1658501487233</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1658501487233</updated>
+    </task>
+    <task id="LOCAL-00005" summary="added new dependencies">
+      <created>1658501665365</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1658501665365</updated>
+    </task>
+    <task id="LOCAL-00006" summary="added new dependencies">
+      <created>1658501924600</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1658501924600</updated>
+    </task>
+    <task id="LOCAL-00007" summary="custom orm exercise">
+      <created>1658564154869</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1658564154869</updated>
+    </task>
+    <task id="LOCAL-00008" summary="custom orm exercise">
+      <created>1658564190623</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1658564190623</updated>
+    </task>
+    <task id="LOCAL-00009" summary="removed password from the connector class">
+      <created>1658564237406</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1658564237406</updated>
+    </task>
+    <task id="LOCAL-00010" summary="removed password from the connector class">
+      <created>1658564248542</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1658564248542</updated>
+    </task>
+    <task id="LOCAL-00011" summary="added new methods">
+      <created>1658577183508</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1658577183508</updated>
+    </task>
+    <task id="LOCAL-00012" summary="added new methods">
+      <created>1658591371026</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1658591371026</updated>
+    </task>
+    <task id="LOCAL-00013" summary="added new methods">
+      <created>1658591401892</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1658591401892</updated>
+    </task>
+    <task id="LOCAL-00014" summary="added some comments">
+      <created>1658652797128</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1658652797128</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added new exercises." />
+    <MESSAGE value="Moved files to correct directory." />
+    <MESSAGE value="Added connection.close() method" />
+    <MESSAGE value="Added Maven" />
+    <MESSAGE value="added new dependencies" />
+    <MESSAGE value="custom orm exercise" />
+    <MESSAGE value="removed password from the connector class" />
+    <MESSAGE value="added new methods" />
+    <MESSAGE value="added some comments" />
+    <option name="LAST_COMMIT_MESSAGE" value="added some comments" />
+  </component>
+</project>
