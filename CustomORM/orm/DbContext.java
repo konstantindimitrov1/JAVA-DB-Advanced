@@ -1,4 +1,4 @@
-package CustomORM.orm;
+package orm;
 
 public interface DbContext<E> {
 

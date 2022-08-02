@@ -1,8 +1,8 @@
-package CustomORM.entities;
+package entities;
 
-import CustomORM.annotations.Column;
-import CustomORM.annotations.Entity;
-import CustomORM.annotations.Id;
+import annotations.Column;
+import annotations.Entity;
+import annotations.Id;
 
 import java.time.LocalDate;
 

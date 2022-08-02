@@ -1,6 +1,6 @@
-package CustomORM.orm;
+package orm;
 
-import CustomORM.annotations.Id;
+import annotations.Id;
 
 import java.lang.reflect.Field;
 import java.sql.Connection;

@@ -1,8 +1,6 @@
-package CustomORM;
-
-import CustomORM.entities.User;
-import CustomORM.orm.EntityManager;
-import CustomORM.orm.MyConnector;
+import entities.User;
+import orm.EntityManager;
+import orm.MyConnector;
 
 import java.sql.SQLException;
 

@@ -1,22 +1,22 @@
-package DatabaseAccessWithJDBC;
+package orm;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.SQLException;
 import java.util.Properties;
 
-public class DBConnector {
-    private Connection connection;
+public class MyConnector {
+    private final Connection connection;
 
-    public DBConnector () throws SQLException {
+    public MyConnector() throws SQLException {
         Properties properties = new Properties();
         properties.setProperty("user", "root");
         properties.setProperty("password", "");
 
-        this.connection = DriverManager.getConnection("jdbc:mysql://localhost:3306/minions_db", properties);
+        connection = DriverManager.getConnection("jdbc:mysql://localhost:3306/custom_orm", properties);
     }
 
     public Connection getConnection() {
-        return this.connection;
+        return connection;
     }
 }
