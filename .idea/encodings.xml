@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/AdvancedQuerying/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/AdvancedQuerying/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/AdvancedQueryingExercise/BookShopSystem/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/AdvancedQueryingExercise/BookShopSystem/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/HibernateCodeFirst/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/HibernateCodeFirst/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SpringData/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SpringData/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SpringDataExercises/BookshopSystem/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SpringDataExercises/BookshopSystem/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SpringDataExercises/UserSystem/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SpringDataExercises/UserSystem/src/main/resources" charset="UTF-8" />
+  </component>
+</project>
